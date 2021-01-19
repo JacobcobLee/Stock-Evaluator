@@ -34,8 +34,8 @@ const useStyles = makeStyles((theme) => ({
 export default function SignIn() {
   const classes = useStyles();
   const [check, setCheck] = useState(false)
-  const [value, setValue] = useState()
-  const [value2, setValue2] = useState()
+  const [value, setValue] = useState(0)
+  const [value2, setValue2] = useState(0)
   const [fairPrice, setFP] = useState(null)
 
   useEffect(()=>{
