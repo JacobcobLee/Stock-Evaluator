@@ -83,7 +83,7 @@ export default function SignIn() {
             <CardContent>
               <div style={{ justifyContent: "space-around" }}>
                 <Typography component="h3" variant="h6">
-                  {fairPrice? <p>the fair price is: {fairPrice}</p> : <p>either u nvr key in the value, or u key in letters. fucking dumb ass.</p>}
+                  {fairPrice? <p>the fair price is: {fairPrice}</p> : <p>either nothing is keyed in yet, or there is letters in the input.</p>}
                 </Typography>
               </div>
             </CardContent>
