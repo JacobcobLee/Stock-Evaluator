@@ -91,7 +91,6 @@ export default function SignIn() {
           </Grid>
         </form>
       </div>
-      <div style={{marginTop: 700}}>sven is a gay fking faggot</div>
     </Container>
   );
 }
