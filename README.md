@@ -3,5 +3,3 @@
 >Currently only consist of the fair price but will be adding more things
 
 created using react and material ui libraries.
-# WARNING CRUDE LANGUAGE IS USED, its just how i express myself. dont like it? dont use this repo. 
-sorry for the passive agressiveness.
